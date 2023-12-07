@@ -30,3 +30,6 @@ for (let i = 0; i < sampleArray.length; num in sampleArray){
     sampleArray.push();
 }
 console.log(sampleArray);
+console.log(sampleArray);
+console.log(sampleArray);
+console.log(sampleArray);
