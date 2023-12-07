@@ -29,3 +29,4 @@ for (let i = 0; i < sampleArray.length; num in sampleArray){
     num +=10;
     sampleArray.push();
 }
+console.log(sampleArray);
